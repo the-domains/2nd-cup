@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[All the inspiration you want as you start your 2nd cup in the morning]]></title>
         <description><![CDATA[All the inspiration you want as you start your 2nd cup in the morning]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/2nd-cup/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 02 Nov 2015 06:23:08 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 02 Nov 2015 06:23:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/2nd-cup/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Mindfulness</p>]]></description>
+            <link>https://thegrid.ai/2nd-cup/mindfulness/index.html</link>
+            <guid isPermaLink="false">a6da8e4e-3072-4246-a288-295fbf3fe058</guid>
+            <pubDate>Mon, 02 Nov 2015 06:22:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Present</p>]]></description>
-            <link>undefinedpresent/index.html</link>
+            <link>https://thegrid.ai/2nd-cup/present/index.html</link>
             <guid isPermaLink="false">78b5e5bd-b93b-4cba-968c-06a9848f3457</guid>
             <pubDate>Mon, 02 Nov 2015 06:22:18 GMT</pubDate>
         </item>
