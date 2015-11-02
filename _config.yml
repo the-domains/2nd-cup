@@ -1,0 +1,23 @@
+name: 2nd Cup
+favicon: null
+layout_spectrum: 0.9743100595660508
+typography_spectrum: 0.26801161654293537
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.07473453227430582
+  lightness: 0.6386981678660959
+  saturation: 0.7629269047174603
+  rhythmicContrast: 0.2963063092902303
+purpose: []
